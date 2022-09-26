@@ -1,0 +1,13 @@
+npm = node pakage manger 
+
+$ npm init -y  = creates json package 
+$ npm i tailwindcss = to install Tailwind Css
+ we have to comapile and generate the tailwindcss 
+
+   "build":"tailwindcss -i src/styles.css -o public/output.css"
+
+ $ npm run build is the command 
+to generate comapiled css file i.e [output.css]
+
+- w = watches the changes  and Rebuild Automatically 
+
